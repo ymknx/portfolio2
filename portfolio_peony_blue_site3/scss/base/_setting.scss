@@ -1,0 +1,25 @@
+//fontの設定
+@font-face{
+    font-family: "aaa";
+    src:url(../font/cour.ttf)
+}
+
+$default-font: "Meiryo";
+$en-font: "aaa";
+
+$title-color: #c0af1e;
+
+
+$default-lh: 1.5;
+//$title-lh: 1.1;
+
+$title-fz: 30px;
+
+
+//colorの設定
+$default-bgc: #050621;
+
+//sizeの設定
+$sp: 320px;
+$tab: 768px;
+$pc: 960px;

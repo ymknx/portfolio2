@@ -1,0 +1,22 @@
+#header{
+    background-color: #050621;
+}
+#gnav{
+    ul{
+
+    }
+    li{
+        float: left;
+        margin-right: 60px;
+        font-family: "aaa";
+        font-size: 20px;
+        &:last-child{
+            margin-right: 0;
+        }
+        a{
+            color: #c0af1e;
+            text-decoration: none;
+        }
+    }
+
+}

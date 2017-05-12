@@ -1,0 +1,37 @@
+#main{
+    width: 1000px;
+}
+dt{
+    float: left;
+    background-color: $default-bgc;
+    height: 500px;
+    a{
+        text-decoration: none;
+        color: $title-color;
+    }
+}
+dd{
+    float: left;
+    width: 800px;
+    height: 500px;
+    overflow: hidden;
+}
+.currentBtn {
+    background-color: #f0f;
+}
+#main-v{
+//    height: 470px;
+    background-color: $default-bgc;
+}
+#about{
+    background-color: #030;
+}
+#skill{
+    background-color: #330;
+}
+#works{
+    background-color: #303;
+}
+#contact{
+    background-color: $default-bgc;
+}
